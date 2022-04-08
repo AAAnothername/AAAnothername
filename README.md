@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AAAnothername
-- 👀 I’m interested in videogames and rando mcoding projects.
+- 👀 I’m interested in videogames and random coding projects. Currently I am working on a Random-code generator.
 - 🌱 I’m currently learning multiple real world languages, and C# programming language.
-- 💞️ I’m not looking to collaborate on anything cuurrently.
+- 💞️ I’m not looking to collaborate on anything currently.
 - 📫 You can reach me via Discord! Anothername#6145.
 
 <!---
