@@ -1,6 +1,6 @@
 # Projects.md
 
-Projects I am currently worked on or have finished.
+Projects I am currently working on or have finished.
 
 Status - Name/Link - Description
 
